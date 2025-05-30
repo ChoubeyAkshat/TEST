@@ -29,6 +29,10 @@ nav a {
   font-weight: bold;
 }
 
+nav a:hover {
+  background-color: ##011a4a;
+}
+
 #hero {
   text-align: center;
   padding: 4em 2em;
